@@ -5,6 +5,7 @@ To design a half subtractor and full subtractor circuit and verify its truth tab
 
 ## EQUIPMENT'S REQUIRED:
 Hardware – PCs, Cyclone II , USB flasher
+
 Software – Quartus prime
 
 ## THEORY:
